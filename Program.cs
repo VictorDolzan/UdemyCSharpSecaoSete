@@ -16,7 +16,8 @@ namespace CSharpSecaoSete
            //ExpressaoCondicionalTernaria.ExecutarExpressaoCondicionalTernaria();
            //FuncoesString.ExecutarFuncoesString();
            //TipoDateTme.ExecutarTipoDateTime();
-           TipoTimeSpan.ExecutarTipoTimeSpan();
+           //TipoTimeSpan.ExecutarTipoTimeSpan();
+           PropriedadesEOperacoesDateTime.ExecutarPropriedadesEOperacoesDateTime();
         }
     }
 }
