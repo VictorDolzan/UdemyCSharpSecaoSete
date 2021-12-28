@@ -17,7 +17,8 @@ namespace CSharpSecaoSete
            //FuncoesString.ExecutarFuncoesString();
            //TipoDateTme.ExecutarTipoDateTime();
            //TipoTimeSpan.ExecutarTipoTimeSpan();
-           PropriedadesEOperacoesDateTime.ExecutarPropriedadesEOperacoesDateTime();
+           //PropriedadesEOperacoesDateTime.ExecutarPropriedadesEOperacoesDateTime();
+           PropriedadesEOperacoesTimeSpan.ExecutarPropriedadesEOperacoesTimeSpan();
         }
     }
 }
