@@ -11,7 +11,7 @@ namespace CSharpSecaoSete
     {
         public static void Main(string[] args)
         {
-            
+           InferenciaVar.ExecutarInferenciaVar();
         }
     }
 }

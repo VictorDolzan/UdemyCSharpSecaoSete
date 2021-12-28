@@ -1,0 +1,15 @@
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/CSharpSecaoSete
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/CSharpSecaoSete.deps.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/CSharpSecaoSete.runtimeconfig.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/CSharpSecaoSete.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/ref/CSharpSecaoSete.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/bin/Debug/net6.0/CSharpSecaoSete.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.AssemblyInfo.cs
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.csproj.CoreCompileInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/ref/CSharpSecaoSete.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoSete/obj/Debug/net6.0/CSharpSecaoSete.genruntimeconfig.cache
