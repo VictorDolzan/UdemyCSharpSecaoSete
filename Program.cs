@@ -13,7 +13,8 @@ namespace CSharpSecaoSete
         {
            //InferenciaVar.ExecutarInferenciaVar();
            //SintaxeSwitchCase.ExecutarSintaxeSwitchCase();
-           ExpressaoCondicionalTernaria.ExecutarExpressaoCondicionalTernaria();
+           //ExpressaoCondicionalTernaria.ExecutarExpressaoCondicionalTernaria();
+           FuncoesString.ExecutarFuncoesString();
         }
     }
 }
