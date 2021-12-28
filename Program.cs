@@ -15,7 +15,8 @@ namespace CSharpSecaoSete
            //SintaxeSwitchCase.ExecutarSintaxeSwitchCase();
            //ExpressaoCondicionalTernaria.ExecutarExpressaoCondicionalTernaria();
            //FuncoesString.ExecutarFuncoesString();
-           TipoDateTme.ExecutarTipoDateTime();
+           //TipoDateTme.ExecutarTipoDateTime();
+           TipoTimeSpan.ExecutarTipoTimeSpan();
         }
     }
 }
