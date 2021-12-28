@@ -12,7 +12,8 @@ namespace CSharpSecaoSete
         public static void Main(string[] args)
         {
            //InferenciaVar.ExecutarInferenciaVar();
-           SintaxeSwitchCase.ExecutarSintaxeSwitchCase();
+           //SintaxeSwitchCase.ExecutarSintaxeSwitchCase();
+           ExpressaoCondicionalTernaria.ExecutarExpressaoCondicionalTernaria();
         }
     }
 }
